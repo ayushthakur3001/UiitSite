@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/UiitSite/static/css/main.c2300313.chunk.css",
+    "main.js": "/UiitSite/static/js/main.628cf9fc.chunk.js",
+    "main.js.map": "/UiitSite/static/js/main.628cf9fc.chunk.js.map",
+    "runtime-main.js": "/UiitSite/static/js/runtime-main.abee494f.js",
+    "runtime-main.js.map": "/UiitSite/static/js/runtime-main.abee494f.js.map",
+    "static/js/2.0e31a10a.chunk.js": "/UiitSite/static/js/2.0e31a10a.chunk.js",
+    "static/js/2.0e31a10a.chunk.js.map": "/UiitSite/static/js/2.0e31a10a.chunk.js.map",
+    "index.html": "/UiitSite/index.html",
+    "static/css/main.c2300313.chunk.css.map": "/UiitSite/static/css/main.c2300313.chunk.css.map",
+    "static/js/2.0e31a10a.chunk.js.LICENSE.txt": "/UiitSite/static/js/2.0e31a10a.chunk.js.LICENSE.txt",
+    "static/media/book.bb0f9ad1.png": "/UiitSite/static/media/book.bb0f9ad1.png",
+    "static/media/notes.2b03a2c0.png": "/UiitSite/static/media/notes.2b03a2c0.png",
+    "static/media/yt.29177006.png": "/UiitSite/static/media/yt.29177006.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abee494f.js",
+    "static/js/2.0e31a10a.chunk.js",
+    "static/css/main.c2300313.chunk.css",
+    "static/js/main.628cf9fc.chunk.js"
+  ]
+}
